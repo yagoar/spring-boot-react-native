@@ -31,16 +31,16 @@ build/
 .vscode/
 
 mobile-app/node_modules/**/*
-.expo/*
-npm-debug.*
+mobile-app/.expo/*
+mobile-app/npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-web-build/
-web-report/
+mobile-app/web-build/
+mobile-app/web-report/
 
 # macOS
 .DS_Store
