@@ -30,7 +30,7 @@ build/
 ### VS Code ###
 .vscode/
 
-node_modules/**/*
+mobile-app/node_modules/**/*
 .expo/*
 npm-debug.*
 *.jks
