@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yagoar.springbootreactnative",
+      "versionCode": 1
     }
   }
 }
